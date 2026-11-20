@@ -1,9 +1,9 @@
-# DeciRemnant Legacy Releases
+<p align="center"><img src="images/banner.jpg" alt="DeciRemnant" width="100%"></p>
 
-Public downloads for the legacy Minecraft 1.7.10 edition of DeciRemnant.
+# DeciRemnant downloads
 
-[Download releases](https://github.com/ucilmenangis/deciremnant/releases) · [Website and installation guide](https://deciremnant.vercel.app/)
+Release files for DeciRemnant, read by the website and by the game's built-in updater.
 
-This repository contains release files and notes, not development source or history. Existing in-game updater URLs remain supported.
+Get the mod from https://deciremnant.my.id/download. Each release has the jar and a `.sha256` file to check the download.
 
-Unofficial continuation of Decimation. Original mod by BoehMod.
+All rights reserved. Decimation was created by BoehMod; DeciRemnant is an unofficial fan project.
